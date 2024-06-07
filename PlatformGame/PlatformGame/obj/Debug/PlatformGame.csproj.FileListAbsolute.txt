@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\bin\Debug\PlatformGame.exe.config
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\bin\Debug\PlatformGame.exe
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\bin\Debug\PlatformGame.pdb
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.Form1.resources
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.Properties.Resources.resources
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.exe
+C:\Users\marti\source\repos\PlatformGame\PlatformGame\obj\Debug\PlatformGame.pdb
